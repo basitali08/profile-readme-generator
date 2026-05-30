@@ -40,6 +40,8 @@
 
 👉 **[Try it here](https://profile-readme-generator-basitali08.streamlit.app)** (or run locally)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit)](https://profile-readme-generator-basitali08.streamlit.app)
+
 ---
 
 ## 🖼️ Preview
